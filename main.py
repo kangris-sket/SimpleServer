@@ -1,4 +1,4 @@
-#qpy:console
+#!/usr/bin/python
 import sys
 import time
 import random
